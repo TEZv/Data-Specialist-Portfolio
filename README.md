@@ -80,7 +80,7 @@ This repository showcases my projects, skills, and progress in Data Analytics an
 
 ## 📞 Contact  
 🔗 **LinkedIn:** [Oksana Kolisnyk](https://www.canva.com/design/DAGf1fIPbx8/j2jBiynOrlM4Wi_av9RXHA/edit?utm_content=DAGf1fIPbx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-📩 **Email:** your-email@example.com  
+📩 **Email:** zazera777@gmail.com  
 
 For more details on my projects:  
 📂 **Analyst and Digital Marketer Projects:** [Canva Portfolio](https://www.canva.com/design/DAGf1fIPbx8/j2jBiynOrlM4Wi_av9RXHA/edit?utm_content=DAGf1fIPbx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
