@@ -79,7 +79,7 @@ This repository showcases my projects, skills, and progress in Data Analytics an
 ---
 
 ## 📞 Contact  
-🔗 **LinkedIn:** [Your Profile]  
+🔗 **LinkedIn:** [[Oksana Kolisnyk] ](https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/) 
 📩 **Email:** your-email@example.com  
 
 For more details on my projects:  
