@@ -3,7 +3,7 @@
 ## About  
 Hi, I'm Oksana! 🚀 A data-driven problem solver with a passion for analytics, digital marketing, and automation. I specialize in making sense of numbers, optimizing processes, and discovering actionable insights. My goal? To blend data, strategy, and innovation to drive business success.  
 
-🔹 **Background:** Data Analyst, Digital Marketer, and SEO Specialist (+Outreach)
+🔹 **Background:** Data Analyst, Digital Marketer, and SEO Specialist
 🔹 **Interests:** Product analytics, A/B testing, funnel analysis, mobile analytics  
 🔹 **Tech Stack:** SQL, Power BI, Looker, Tableau, Google Sheets, Python  
 
