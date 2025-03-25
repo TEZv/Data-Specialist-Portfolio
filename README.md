@@ -7,6 +7,9 @@ Hi, I'm Oksana! 🚀 A data-driven problem solver with a passion for analytics, 
 🔹 **Interests:** Product analytics, A/B testing, funnel analysis, mobile analytics  
 🔹 **Tech Stack:** SQL, Power BI, Looker, Tableau, Google Sheets, Python  
 
+📄 You can check my Analyst CV **[here](./Oksana%20Kolisnyk%20-%20Analyst%20Technician%20-%20CV.pdf)**  
+📄 You can check my Digital Marketer CV **[here](./Oksana%20Kolisnyk%20-%20Marketing%20Technician%20-%20CV.pdf)** 
+
 This repository showcases my projects, skills, and progress in Data Analytics and Digital Marketing.  
 
 ---
