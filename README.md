@@ -69,15 +69,17 @@ This repository showcases my projects, skills, and progress in Data Analytics an
 ---
 
 ## 🎓 Education  
-📚 **University Name (Your Degree Here)**  
-📚 **Additional Courses & Certifications**  
+📚 **"KROK" University (Kyiv) | 076 "Entrepreneurship, Trade and
+Exchange Activities"**  
+📚 **College of Art and Design (Kyiv) | 076 "Entrepreneurship, Trade and
+Exchange Activities"**   
 
 ---
 
 ## 🎖️ Certificates  
-📌 **Google Data Analytics Professional Certificate**  
-📌 **Power BI Advanced Reporting**  
-📌 **SQL for Data Science**  
+📌 **Coursera Google Data Analytics Professional Certificate**  
+📌 **DataCamp**  
+📌 **freeCodeCamp**  
 
 ---
 
