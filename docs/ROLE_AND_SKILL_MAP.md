@@ -64,8 +64,8 @@ Recommended order:
 
 1. Get the SQL Server and Terraform CI green.
 2. Capture one controlled Azure deployment.
-3. Add a Databricks/Delta version of one existing pipeline, using the same business domain.
-4. Present it as a platform extension, not as invented commercial Databricks experience.
+3. A Databricks-compatible PySpark/Delta Lake pipeline now extends the evidence with Bronze/Silver/Gold, schema evolution, `MERGE`, quarantine and tests.
+4. Present it as an independent platform extension, not as invented commercial Databricks experience, until a personal-workspace run is captured.
 
 ## Accurate headline
 
