@@ -1,8 +1,10 @@
 # ✦ Oksana Kolisnyk — Data & Analytics Portfolio
 
-Evidence-led portfolio for **Data Analytics**, **Analytics Engineering**, and a deliberate transition into **Data Engineering**.
+**Data & Analytics Engineer — Middle-level portfolio** for **Data Analytics**, **Analytics Engineering**, and **Data Engineering** roles.
 
 > Professional work is described only at a non-confidential level. Public lab projects use synthetic data and are never presented as client engagements.
+
+> **Middle-level delivery standard:** requirements → data design → implementation → automated verification → operational documentation. See [middle-level role positioning](docs/MIDDLE_ROLE_POSITIONING.md).
 
 ## 🧭 Professional direction
 
@@ -61,6 +63,7 @@ See the detailed [credentials and evidence register](docs/CREDENTIALS_AND_EVIDEN
 
 - **Data Analyst:** accurate for the current professional core.
 - **Analytics Engineer / BI Engineer:** accurate for work involving repeatable transformation logic, shared KPI definitions, automated reporting, validation, and stable reporting outputs. Use “analytics engineering responsibilities” unless it was the formal job title.
+- **Data & Analytics Engineer — Middle-level portfolio:** accurate as the target positioning for the combined evidence system. It describes demonstrated delivery scope, not an invented historical job title.
 - **Data Engineer:** target direction supported by completed independent projects; do not rewrite the current commercial title.
 
 See [role and skill map](docs/ROLE_AND_SKILL_MAP.md) for the exact boundary.

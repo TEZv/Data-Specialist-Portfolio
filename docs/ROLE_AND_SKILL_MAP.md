@@ -69,10 +69,10 @@ Recommended order:
 
 ## Accurate headline
 
-`Data Analyst | Analytics Engineering responsibilities | SQL, Python, Power BI | Transitioning to Data Engineering`
+`Data & Analytics Engineer | Middle-level portfolio | SQL, Python, Power BI, MS SQL Server, PySpark/Delta Lake`
 
 For applications with enough project evidence:
 
-`Data & Analytics Engineer | SQL, Python, Power BI, MS SQL Server, Terraform`
+`Data & Analytics Engineer | Middle-level portfolio | SQL, Python, Power BI, MS SQL Server, PySpark/Delta Lake, Terraform`
 
 Do not replace the formal employment title in the Experience section.
