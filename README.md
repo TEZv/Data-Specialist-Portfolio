@@ -21,6 +21,19 @@ database design, pipelines, reliability, cloud infrastructure
 
 My current professional experience sits mainly across **Data Analytics and Analytics Engineering**: media/content performance analysis, reporting automation, KPI logic, data preparation, validation, and dashboard delivery. Two focused, inspectable repositories provide project evidence for the move into **Data Engineering**: relational SQL Server delivery and lakehouse processing with PySpark/Delta Lake.
 
+## 🧾 How to read this portfolio
+
+This portfolio uses four evidence categories, so education, commercial work and learning artifacts are never blended into one claim:
+
+| Label | Meaning |
+|---|---|
+| 🎓 **Education & verified credentials** | Formal education or a completed credential with a provider, date and verification route |
+| 🏢 **Professional context** | Anonymized real-work scope; no proprietary data, source code or dashboards published |
+| 🧪 **Independent portfolio project** | Reproducible public code and synthetic/public data; not a client engagement |
+| 🎒 **Academy / learning artifact** | Completed academy case, coursework, drill or interview practice; not commercial delivery |
+
+See the detailed [credentials and evidence register](docs/CREDENTIALS_AND_EVIDENCE.md).
+
 ## 🔎 Selected evidence
 
 | Case | Area | Evidence | Status |
@@ -69,7 +82,7 @@ Every featured claim must have at least one of:
 - an anonymized professional case whose scope can be confirmed by an authorized manager;
 - a clearly labelled learning artifact that is not presented as delivery experience.
 
-See [evidence standard](docs/EVIDENCE_STANDARD.md), [manager confirmation template](docs/REFERENCE_CONFIRMATION_TEMPLATE.md), and [interview presentation guide](docs/INTERVIEW_PRESENTATION_GUIDE.md).
+See [evidence standard](docs/EVIDENCE_STANDARD.md), [credentials and evidence register](docs/CREDENTIALS_AND_EVIDENCE.md), [manager confirmation template](docs/REFERENCE_CONFIRMATION_TEMPLATE.md), and [interview presentation guide](docs/INTERVIEW_PRESENTATION_GUIDE.md).
 
 ## 📦 Archive
 
