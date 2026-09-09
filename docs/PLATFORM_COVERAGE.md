@@ -1,6 +1,10 @@
 # 🧭 Data engineering platform coverage
 
-This is a capability-led expansion plan, not a claim to qualify for every data engineering role. Middle is the target role; public implementation evidence and personal interview readiness are assessed separately.
+This is a capability-led evidence register, not a claim to qualify for every data engineering role. Middle is the target role; public implementation evidence and personal interview readiness are assessed separately.
+
+## ✅ Verified platform run
+
+[DE platform integration — successful run 34409326771](https://github.com/TEZv/lakehouse-finance-data-engineering/actions/runs/34409326771), implementation commit `b6db693`. All four jobs passed: **dbt**, **airflow**, **hive-hadoop**, **kubernetes**. The implementation was executed in disposable GitHub runners, not deployed into employer infrastructure or a paid cloud account. See [module instructions](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs) and [Ukrainian interview walkthrough](https://github.com/TEZv/lakehouse-finance-data-engineering/blob/main/docs/PLATFORM_INTERVIEW_UA.md).
 
 ## Evidence register
 
@@ -9,23 +13,20 @@ This is a capability-led expansion plan, not a claim to qualify for every data e
 | Relational development | SQL Server / T-SQL | [Independent SQL labs](https://github.com/TEZv/mssql-data-engineering-portfolio); not commercial references |
 | Batch lakehouse | Python, PySpark, Delta Lake | [Small synthetic pipeline](https://github.com/TEZv/lakehouse-finance-data-engineering); not a measured distributed production workload |
 | Event transport and replay | Kafka, Python | [Kafka lab](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs/kafka): producer, consumer, transactional SQLite sink, version handling, quarantine and replay; inspect the linked Actions result for broker execution status |
-| Orchestration | Airflow | Planned: schedule a bounded existing pipeline, dependency/retry policy, failed-task recovery and backfill tests |
-| Analytics transformation | dbt | Planned: staging and marts, grain, incremental model, uniqueness/null/relationship tests, metric definitions and reconciliation |
+| Orchestration | Airflow | Implemented and CI-executed: batch → dbt DAG, actual retry after injected failure, two isolated logical dates via dag.test(); no scheduler/HA/backfill-service claim |
+| Analytics transformation | dbt + DuckDB | Implemented and CI-executed: staging, per-key incremental fact, summary, uniqueness/null/relationship and reconciliation tests; initial/replay/correction/stale builds and generated docs |
 | Cloud warehouse and security | One cloud first; Azure target already designed | Azure SQL Terraform exists; real deployment, least-privilege access, secret handling, measured cost and teardown evidence remain separate gates |
 | Lakehouse service | Databricks | Job-definition draft only; adapt to an actual personal workspace and record a real run before claiming deployment |
-| Hive/Hadoop ecosystem | Hive, HDFS/Hadoop | Planned separate compatibility lab: external tables, partitions, file formats and metastore vs storage. Not required to run Kafka; do not imply HDFS is part of every lakehouse |
-| Container orchestration | Docker, Kubernetes | Container-based CI exists. Kubernetes lab planned: a batch Job, resources, configuration, probes where applicable and failed-run diagnostics; not a production cluster |
+| Hive/Hadoop ecosystem | Hive, HDFS/Hadoop | Implemented and CI-executed: real NameNode/DataNode, HiveServer2, external partitioned text table, row verification, external-file retention after table drop; single container, no HA/YARN/Kerberos |
+| Container orchestration | Docker, Kubernetes | Implemented and CI-executed on kind: non-root restricted Job, ConfigMap, resource limits, expected failure and successful execution; temporary in-Pod storage, not a production cluster |
 | Operations | Logging, freshness, reconciliation, access controls | Some tests/runbooks exist; no comprehensive observability, incident-response or governance implementation claimed |
 | JVM development | Java / Kotlin | Optional job-specific track; no hands-on proficiency claimed merely from using Spark or Kafka |
 
-## Delivery order and acceptance criteria
+## Completed scope and remaining gates
 
-1. Kafka replay lab with unit tests and broker CI.
-2. Existing lakehouse correctness hardening: NULL routing, version conflicts, replay behavior, safe output handling and accurate metric names.
-3. Airflow orchestration of an existing batch; demonstrate a failure and safe rerun.
-4. dbt analytics layer with a documented input contract and hand-checked metric.
-5. Controlled personal cloud deployment after account, budget and permissions are agreed.
-6. Hive/Hadoop and Kubernetes as bounded optional modules with their own execution evidence.
+Completed: Kafka replay lab; shared replay-safe batch adapter; Airflow orchestration with failure recovery; dbt models/tests/docs; Hive/HDFS query lab; Kubernetes Job execution and diagnostics. These are modules of an independent lab portfolio, not six commercial projects.
+
+Remaining: original PySpark pipeline correctness hardening (NULL routing, version conflicts, replay behavior and safe output handling); a controlled personal cloud deployment after account, budget and permissions are agreed; scale/HA/security hardening beyond the explicit lab boundaries; personal walkthrough and independent modification exercises.
 
 Every module needs code, a reproducible run, assertions, limitations, an operational explanation, and an interview exercise. A checked-in configuration is not a successful deployment. No need to build AWS, Azure and GCP implementations simultaneously or add every warehouse product to the same system.
 

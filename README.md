@@ -4,7 +4,7 @@
 
 ### 🧭 Platform coverage and new evidence
 
-See the [platform coverage register](docs/PLATFORM_COVERAGE.md) for implemented modules versus planned Airflow, dbt, Hive/Hadoop, Kubernetes and cloud runs. The new [Kafka delivery and replay lab](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs/kafka) includes a Python consumer, versioned state, quarantine, unit tests and a broker CI workflow. Check the workflow result before treating broker execution as verified. Target seniority is not a claim of commercial experience in these platforms.
+**Kafka, Airflow, dbt, Hive/Hadoop and Kubernetes now have implemented lab modules and execution evidence.** Explore the [module guide](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs), [successful four-platform integration run](https://github.com/TEZv/lakehouse-finance-data-engineering/actions/runs/34409326771), and [platform coverage register](docs/PLATFORM_COVERAGE.md). Airflow runs a shared batch and dbt; Hive/HDFS and Kubernetes provide bounded storage/execution scenarios. Real cloud deployment remains a separate gate. Target seniority is not a claim of commercial experience in these platforms.
 
 > Professional work is described only at a non-confidential level. Public lab projects use synthetic data and are never presented as client engagements.
 
@@ -58,6 +58,7 @@ See the detailed [credentials and evidence register](docs/CREDENTIALS_AND_EVIDEN
 | Python and SQL transformation logic | Professional + project evidence | Media reporting case and MS SQL portfolio |
 | Metric definitions and data quality | Demonstrated | Weighted-retention logic, assertions, audit/reconciliation patterns |
 | Relational modeling and T-SQL development | Project evidence | MS SQL portfolio |
+| Kafka, Airflow, dbt, Hive/HDFS, Kubernetes | Independent lab execution evidence | [Platform modules and precise boundaries](docs/PLATFORM_COVERAGE.md) |
 | Database maintenance and reliability | Project evidence | MS SQL reliability lab |
 | CI/CD and Terraform | Implemented and validated | GitHub Actions and Azure SQL IaC |
 | Real cloud deployment | Next evidence gate | Controlled Azure plan/apply/smoke-test/destroy |

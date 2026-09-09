@@ -2,7 +2,7 @@
 
 The candidate may prepare a factual draft, but the manager should correct it, remove anything they cannot verify, confirm what may be disclosed, and sign only the final approved wording.
 
-Do not list SQL Server, Terraform, Azure or Databricks as professional technologies unless the manager directly observed their use in the role.
+Do not list SQL Server, Terraform, Azure, Databricks, Kafka, Airflow, dbt, Hive/Hadoop or Kubernetes as professional technologies unless the manager directly observed their use in the role. Public CI-verified lab modules are technical references, not employer references. Link them separately as independent projects; do not add them to a manager letter by default.
 
 ## Suggested fact sheet for manager review
 
