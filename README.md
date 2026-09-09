@@ -1,6 +1,10 @@
 # ✦ Oksana Kolisnyk — Data & Analytics Portfolio
 
-**Data & Analytics Engineer — Middle-level portfolio** for **Data Analytics**, **Analytics Engineering**, and **Data Engineering** roles.
+**Data & Analytics Engineer - Middle-level portfolio** for **Data Analytics**, **Analytics Engineering**, and **Data Engineering** roles.
+
+### 🧭 Platform coverage and new evidence
+
+See the [platform coverage register](docs/PLATFORM_COVERAGE.md) for implemented modules versus planned Airflow, dbt, Hive/Hadoop, Kubernetes and cloud runs. The new [Kafka delivery and replay lab](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs/kafka) includes a Python consumer, versioned state, quarantine, unit tests and a broker CI workflow. Check the workflow result before treating broker execution as verified. Target seniority is not a claim of commercial experience in these platforms.
 
 > Professional work is described only at a non-confidential level. Public lab projects use synthetic data and are never presented as client engagements.
 
