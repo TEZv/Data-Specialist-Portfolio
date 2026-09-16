@@ -93,4 +93,4 @@ See [evidence standard](docs/EVIDENCE_STANDARD.md), [credentials and evidence re
 
 ## 📦 Archive
 
-CV versions, reference letters, drafts and recruitment correspondence are shared privately, not as repository assets.
+CV versions, reference letters, drafts and recruitment correspondence are shared privately, not as repository assets. See the [publication boundary](docs/PUBLICATION_BOUNDARY.md).
