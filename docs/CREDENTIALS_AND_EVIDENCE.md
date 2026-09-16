@@ -40,7 +40,7 @@ Professional work is represented through scope, methods and outcomes rather than
 | Artifact | What it is | What it is not |
 |---|---|---|
 | [Genesis TaskFlow case](https://github.com/TEZv/Genesis-Academy_Strategy-Operations-School-2.0-Case-Task) | Completed academy/product analytics case with public deliverables | Commercial client delivery |
-| [de-lab](https://github.com/TEZv/de-lab) | Learning, drills and interview practice | Completed production delivery |
+| [de-lab](https://github.com/TEZv/de-lab) | Learning, drills and interview practice | Learning environment; not production delivery |
 
 ## ✅ Label standard
 
