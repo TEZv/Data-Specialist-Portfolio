@@ -4,7 +4,7 @@ This is a capability-led evidence register, not a claim to qualify for every dat
 
 ## ✅ Verified platform run
 
-[DE platform integration — successful run 34409326771](https://github.com/TEZv/lakehouse-finance-data-engineering/actions/runs/34409326771), implementation commit `b6db693`. All four jobs passed: **dbt**, **airflow**, **hive-hadoop**, **kubernetes**. The implementation was executed in disposable GitHub runners, not deployed into employer infrastructure or a paid cloud account. See [module instructions](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs) and [Ukrainian interview walkthrough](https://github.com/TEZv/lakehouse-finance-data-engineering/blob/main/docs/PLATFORM_INTERVIEW_UA.md).
+[DE platform integration — successful run 34409326771](https://github.com/TEZv/lakehouse-finance-data-engineering/actions/runs/34409326771), implementation commit `b6db693`. All four jobs passed: **dbt**, **airflow**, **hive-hadoop**, **kubernetes**. The implementation was executed in disposable GitHub runners, not deployed into employer infrastructure or a paid cloud account. See [module instructions](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs).
 
 ## Evidence register
 
@@ -34,6 +34,6 @@ Every module needs code, a reproducible run, assertions, limitations, an operati
 
 Public technical references mean links to code, tests, CI runs and design explanations. Employer references mean a consenting manager/HR contact confirming work actually performed. These are different forms of evidence.
 
-The [manager confirmation template](REFERENCE_CONFIRMATION_TEMPLATE.md) must not attribute Kafka, Spark, Kubernetes or any other independent lab technology to employment unless it was actually used there. Dates, job titles and scope remain factual.
+Employment confirmations are private documents. Independent lab technologies are not attributed to employment without factual support. Public technical references link code, tests and execution evidence only.
 
 Interview practice stays in the learning track. Multiple-choice SQL drills establish individual concepts, not a professional grade.

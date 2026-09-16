@@ -2,3 +2,9 @@
 Thumbs.db
 .idea/
 .vscode/
+private/
+*.private.md
+docs/REFERENCE_CONFIRMATION_TEMPLATE.md
+docs/INTERVIEW_PRESENTATION_GUIDE.md
+docs/MIDDLE_ROLE_POSITIONING.md
+archive/cv-2025/

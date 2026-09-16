@@ -26,7 +26,7 @@ Professional work is represented through scope, methods and outcomes rather than
 | Area | Public evidence | Confidentiality boundary |
 |---|---|---|
 | Media/reporting automation and KPI work | [Anonymized professional case](../cases/01-media-reporting-automation.md) | No proprietary data, dashboards, identifiers or source code published |
-| Professional scope confirmation | [Manager confirmation template](REFERENCE_CONFIRMATION_TEMPLATE.md) | A manager may verify facts privately; no confidential information is requested |
+| Professional scope confirmation | Shared privately where appropriate | Official title: Analyst. Reference drafts, signatory contacts and employment documents are not public repository assets |
 
 ## 🧪 Independent portfolio delivery
 

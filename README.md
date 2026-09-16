@@ -8,7 +8,7 @@
 
 > Professional work is described only at a non-confidential level. Public lab projects use synthetic data and are never presented as client engagements.
 
-> **Middle-level delivery standard:** requirements → data design → implementation → automated verification → operational documentation. See [middle-level role positioning](docs/MIDDLE_ROLE_POSITIONING.md).
+> **Project delivery:** requirements → data design → implementation → automated verification → operational documentation. Target roles and project evidence do not replace official employment titles.
 
 ## 🧭 Professional direction
 
@@ -25,7 +25,7 @@ Data Engineering
 database design, pipelines, reliability, cloud infrastructure
 ```
 
-My current professional experience sits mainly across **Data Analytics and Analytics Engineering**: media/content performance analysis, reporting automation, KPI logic, data preparation, validation, and dashboard delivery. Two focused, inspectable repositories provide project evidence for the move into **Data Engineering**: relational SQL Server delivery and lakehouse processing with PySpark/Delta Lake.
+My official employment title is **Analyst**. My portfolio focuses on **Data Analytics, Analytics Engineering and Data Engineering**, with independent SQL Server, lakehouse and platform projects. Employment confirmations and detailed professional responsibilities are shared privately where appropriate.
 
 ## 🧾 How to read this portfolio
 
@@ -55,7 +55,7 @@ See the detailed [credentials and evidence register](docs/CREDENTIALS_AND_EVIDEN
 |---|---|---|
 | Business and product KPI analysis | Demonstrated | TaskFlow case and professional media context |
 | Power BI / Excel reporting | Professional experience | Media reporting case; details anonymized |
-| Python and SQL transformation logic | Professional + project evidence | Media reporting case and MS SQL portfolio |
+| Python and SQL transformation logic | Independent project evidence | MS SQL and lakehouse repositories |
 | Metric definitions and data quality | Demonstrated | Weighted-retention logic, assertions, audit/reconciliation patterns |
 | Relational modeling and T-SQL development | Project evidence | MS SQL portfolio |
 | Kafka, Airflow, dbt, Hive/HDFS, Kubernetes | Independent lab execution evidence | [Platform modules and precise boundaries](docs/PLATFORM_COVERAGE.md) |
@@ -66,10 +66,9 @@ See the detailed [credentials and evidence register](docs/CREDENTIALS_AND_EVIDEN
 
 ## 🏷️ Role labels — what is accurate
 
-- **Data Analyst:** accurate for the current professional core.
-- **Analytics Engineer / BI Engineer:** accurate for work involving repeatable transformation logic, shared KPI definitions, automated reporting, validation, and stable reporting outputs. Use “analytics engineering responsibilities” unless it was the formal job title.
-- **Data & Analytics Engineer — Middle-level portfolio:** accurate as the target positioning for the combined evidence system. It describes demonstrated delivery scope, not an invented historical job title.
-- **Data Engineer:** target direction supported by completed independent projects; do not rewrite the current commercial title.
+- **Analyst:** official employment title.
+- **Analytics Engineering / BI Engineering:** functional areas represented in the portfolio, not alternative official employment titles.
+- **Middle Data / Analytics Engineer:** target roles; project evidence is not a substitute for an employer's assessment of seniority.
 
 See [role and skill map](docs/ROLE_AND_SKILL_MAP.md) for the exact boundary.
 
@@ -90,8 +89,8 @@ Every featured claim must have at least one of:
 - an anonymized professional case whose scope can be confirmed by an authorized manager;
 - a clearly labelled learning artifact that is not presented as delivery experience.
 
-See [evidence standard](docs/EVIDENCE_STANDARD.md), [credentials and evidence register](docs/CREDENTIALS_AND_EVIDENCE.md), [manager confirmation template](docs/REFERENCE_CONFIRMATION_TEMPLATE.md), and [interview presentation guide](docs/INTERVIEW_PRESENTATION_GUIDE.md).
+See [evidence standard](docs/EVIDENCE_STANDARD.md), [credentials and evidence register](docs/CREDENTIALS_AND_EVIDENCE.md), and [platform coverage](docs/PLATFORM_COVERAGE.md).
 
 ## 📦 Archive
 
-The previous 2025 CV PDFs are preserved in [`archive/cv-2025`](archive/cv-2025) for history. They are not the current application materials.
+CV versions, reference letters, drafts and recruitment correspondence are shared privately, not as repository assets.

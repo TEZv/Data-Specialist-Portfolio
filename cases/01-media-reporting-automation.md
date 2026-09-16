@@ -1,6 +1,6 @@
 # Case 1 — Media Reporting Automation
 
-**Classification:** Analytics Engineering / BI Engineering responsibilities within a Data Analyst role
+**Classification:** Analytics Engineering / BI Engineering functional scope. Official employment title: Analyst; functional scope is not an alternative employment title.
 
 **Context:** professional media analytics
 
