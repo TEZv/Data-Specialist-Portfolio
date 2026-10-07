@@ -12,6 +12,7 @@
 - Media performance mart maintenance and late-arriving corrections.
 - SQL Server reliability toolkit for integrity, indexes, statistics, retention, backups and Query Store diagnostics.
 - Private-network Azure SQL deployment target defined with Terraform.
+- [Azure ERP/DWH case](https://github.com/TEZv/mssql-data-engineering-portfolio/tree/main/projects/04-azure-erp-dwh-migration): customer/product/date dimensions, versioned sales facts, source manifests, replay/correction assertions, ADF linked services/datasets/pipeline, managed identity and private endpoint definitions.
 
 ## Engineering evidence
 
@@ -20,6 +21,7 @@
 - Constraints, reconciliation, audit/reject paths and executable assertions.
 - Docker/GitHub Actions SQL Server integration workflow.
 - Portable Terraform, locked providers and Azure SQL infrastructure validation.
+- ADF failed-run alert and Log Analytics definitions; private-network and SQL permission bootstrap runbook.
 
 ## Current verification boundary
 
