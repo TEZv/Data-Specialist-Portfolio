@@ -60,12 +60,15 @@ Databricks is a **platform specialization**, not a replacement for the universal
 - query/job cost and performance reasoning;
 - Unity Catalog/governance concepts where available.
 
-Recommended order:
+Current evidence and next learning gates:
 
-1. Get the SQL Server and Terraform CI green.
-2. Capture one controlled Azure deployment.
-3. A Databricks-compatible PySpark/Delta Lake pipeline now extends the evidence with Bronze/Silver/Gold, schema evolution, `MERGE`, quarantine and tests.
-4. Present it as an independent platform extension, not as invented commercial Databricks experience, until a personal-workspace run is captured.
+1. SQL Server portfolio: CI-verified development, data modelling, maintenance and assertions. Continue practising SQL independently for interview fluency.
+2. Python: used in independent pipeline/validation labs; build core-language fluency through small edits and tests.
+3. Airflow and Kafka: implemented lab modules with CI evidence; personal interview readiness still needs walkthroughs and independent changes.
+4. Azure ERP → DWH: Terraform, ADF definitions, SQL star model and tests are present. Azure apply, identity grants, endpoint approval and alert delivery remain unverified.
+5. Databricks-compatible PySpark/Delta Lake pipeline: Bronze/Silver/Gold, schema evolution, `MERGE`, quarantine and tests are implemented; an actual Databricks workspace run remains unverified.
+
+This is a technical evidence map, not a claim of commercial tenure or independent fluency in every listed platform.
 
 ## Accurate headline
 
